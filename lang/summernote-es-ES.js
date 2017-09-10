@@ -29,6 +29,7 @@
         dragImageHere: 'Arrastrar una imagen o texto aquí',
         dropImage: 'Suelta la imagen o texto',
         selectFromFiles: 'Seleccionar desde los archivos',
+        ssl_warning: 'Usa URLs del tipo HTTPS en lugar de HTTP. Si usas del tipo HTTP no seguro, puede que la imagen no se cargue en algunos dispositivos',
         maximumFileSize: 'Tamaño máximo del archivo',
         maximumFileSizeError: 'Has superado el tamaño máximo del archivo.',
         url: 'URL de la imagen',
